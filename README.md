@@ -14,7 +14,7 @@ Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-li
 
 
 ### Current Activity ### 
-[Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers]() & [Hsinchu Coding Serfs Meeting]() gathered on COSCUP2017,
+[Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/) & [Hsinchu Coding Serfs Meeting](https://www.facebook.com/groups/hsinchu.coders/) gathered on COSCUP2017,
 here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
 
 ### Location ### 
