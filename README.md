@@ -8,7 +8,7 @@ Cat System Workshop是一個討論「系統軟體」議題的定期性社群聚�
 Facebook group:[https://www.facebook.com/groups/cat.system/](https://www.facebook.com/groups/cat.system/)     
 KKTIX:[http://skymizer.kktix.cc/](http://skymizer.kktix.cc/)    
 Github Page:[https://github.com/CatSystemWorkshop/meetup/](https://github.com/CatSystemWorkshop/meetup/)   
-Guest Book:[簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR 
+Guest Book:[簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR    
 Chatroom：[Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 
