@@ -8,20 +8,20 @@ Cat System Workshop是一個討論「系統軟體」議題的定期性社群聚�
 Facebook group: [https://www.facebook.com/groups/cat.system/](https://www.facebook.com/groups/cat.system/)     
 KKTIX: [http://skymizer.kktix.cc/](http://skymizer.kktix.cc/)    
 Github Page: [https://github.com/CatSystemWorkshop/meetup/](https://github.com/CatSystemWorkshop/meetup/)   
-Guest Book: [簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR    
-Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Guest Book: [簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR      
+Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
 
 
 
 ### Current Activity ### 
-[https://www.facebook.com/groups/cat.system/ Cat System Workshop] & [Taiwan Linux Kernel Hackers] & Hsinchu Coding Serfs Meeting gathered on COSCUP2017,
+[Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers]() & [Hsinchu Coding Serfs Meeting]() gathered on COSCUP2017,
 here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
 
 ### Location ### 
 活動地點由 [Skymizer](https://github.com/skymizer) 贊助。
-地址：台北市內湖區瑞光路 408 號12樓之2（近捷運西湖站 1 號出口）
-The meet-up location is sponsored by [Skymizer](https://github.com/skymizer)
-Skymizer inc | 12F-2., No.408, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan
+地址：台北市內湖區瑞光路 408 號12樓之2（近捷運西湖站 1 號出口）  
+The meet-up location is sponsored by [Skymizer](https://github.com/skymizer)   
+Skymizer inc | 12F-2., No.408, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan  
 
 
 ### Past Activity ### 
