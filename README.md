@@ -26,5 +26,15 @@ Skymizer inc | 12F-2., No.408, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwa
 
 ### Past Activity ### 
 
-01. [STM（Software Transactional Memory）的應用與實作](https://github.com/CatSystemWorkshop/meetup/blob/master/2016-03-08-STM-by-Cindy.md)
+11. [2016/09/20：Dynamically Hacking the Kernel with Containers by 高魁良]()
+10. [2016/08/09：LLVM 框架，由淺入淺 by Hydai]()
+09. [2016/07/19：hyperC OS on ARM Cortex by Howard Chen]()
+08. [2016/07/05：Meet cute-between-ebpf-and-tracing by Villar Hsiao]()
+07. [2016/06/21：Skymizer intelligent compiler by Luba]()
+06. [2016/05/24：Parallelize deep learning on GPUs by Bafu Chen]()
+05. [2016/05/10：Mobile GPU 二三事 by Mindows]()
+04. [2016/04/26：MCU 與 lightweight javascript engine 的邂逅 by Blue]()
+03. [2016/04/12：資料庫索引數據結構及主鍵設計 by Ant]()
+02. [2016/03/22：LLVM Greedy Register Allocation by Kai]()
+01. [2016/03/08：STM（Software Transactional Memory）的應用與實作 by Cindy](https://github.com/CatSystemWorkshop/meetup/blob/master/2016-03-08-STM-by-Cindy.md)
 
