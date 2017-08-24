@@ -11,7 +11,7 @@ Github Page: [https://github.com/CatSystemWorkshop/meetup/](https://github.com/C
 Guest Book: [簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR      
 Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
 ### Current Activity ###  
-Cat System Workshop #19
+Cat System Workshop #19  
 [C++ 勇者升級：Introduction to C++ interface](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B-Luba.md)
 
 ### Location ### 
