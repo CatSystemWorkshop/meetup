@@ -24,5 +24,5 @@ https://skymizer.kktix.cc/events/cat0308
 * [簡報](https://cindylinz.github.io/Talk-HaskellSTM/#1)
 * [repo](https://github.com/CindyLinz/Talk-HaskellSTM)：s3p1.hs s3p2.hs 兩個 sample code  
 
-#### 場地資訊 ####
+### 場地資訊 ###
 這個聚會由 [Skymizer](https://github.com/skymizer) 贊助場地
