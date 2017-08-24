@@ -12,7 +12,9 @@ Guest Book: [簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/
 Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
 ### Current Activity ###  
 Cat System Workshop #19  
-[C++ 勇者升級：Introduction to C++ interface](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B-Luba.md)
+C++ 勇者升級：Introduction to C++ interface
+[詳細介紹](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B-Luba.md)
+[報名連結](https://skymizer.kktix.cc/events/cat170905)
 
 ### Location ### 
 活動地點由 [Skymizer](https://github.com/skymizer) 贊助。
