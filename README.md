@@ -10,12 +10,9 @@ KKTIX: [http://skymizer.kktix.cc/](http://skymizer.kktix.cc/)
 Github Page: [https://github.com/CatSystemWorkshop/meetup/](https://github.com/CatSystemWorkshop/meetup/)   
 Guest Book: [簽到簿](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)，歡迎 PR      
 Chatroom: [Gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
-
-
-
-### Current Activity ### 
-[Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/) & [Hsinchu Coding Serfs Meeting](https://www.facebook.com/groups/hsinchu.coders/) gathered on COSCUP2017,
-here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
+### Current Activity ###  
+Cat System Workshop #19
+[C++ 勇者升級：Introduction to C++ interface](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B-Luba.md)
 
 ### Location ### 
 活動地點由 [Skymizer](https://github.com/skymizer) 贊助。
@@ -23,8 +20,11 @@ here is the slides and videos: https://hackmd.io/s/rk9YLbLD-
 The meet-up location is sponsored by [Skymizer](https://github.com/skymizer)   
 Skymizer inc | 12F-2., No.408, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan  
 
-
 ### Past Activity ### 
+
+COSCUP 2017 
+[Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/) & [Hsinchu Coding Serfs Meeting](https://www.facebook.com/groups/hsinchu.coders/) gathered on COSCUP2017,
+here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
 
 #11. [2016/09/20：Dynamically Hacking the Kernel with Containers by 高魁良]()   
 #10. [2016/08/09：LLVM 框架，由淺入淺 by Hydai]()  
