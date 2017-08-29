@@ -37,6 +37,6 @@ here is the slides and videos: https://hackmd.io/s/rk9YLbLD-
 #5. [2016/05/10：Mobile GPU 二三事 by Mindows]()  
 #4. [2016/04/26：MCU 與 lightweight javascript engine 的邂逅 by Blue]()  
 #3. [2016/04/12：資料庫索引數據結構及主鍵設計 by Ant]()  
-#2. [2016/03/22：LLVM Greedy Register Allocation by Kai]()  
+#2. [2016/03/22：LLVM Greedy Register Allocation by Kai](https://github.com/CatSystemWorkshop/meetup/blob/master/2016-03-22-LLVM-Kai.md)  
 #1. [2016/03/08：STM（Software Transactional Memory）的應用與實作 by Cindy](https://github.com/CatSystemWorkshop/meetup/blob/master/2016-03-08-STM-by-Cindy.md)  
 
