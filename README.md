@@ -28,7 +28,11 @@ COSCUP 2017
 [Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/) & [Hsinchu Coding Serfs Meeting](https://www.facebook.com/groups/hsinchu.coders/) gathered on COSCUP2017,
 here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
 
-#11. [2016/09/20：Dynamically Hacking the Kernel with Containers by 高魁良]()   
+#20 [2017/10/03：C++ 勇者升級 02：Singleton by Luba](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-10-03-C%2B%2B02-Luba.md)
+#19 [2017/09/05：C++ 勇者升級 01：Introduction to C++ interface](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B01-Luba.md)
+
+
+#11. [2016/09/20：Dynamically Hacking the Kernel with Containers by 高魁良]()   
 #10. [2016/08/09：LLVM 框架，由淺入淺 by Hydai]()  
 #9. [2016/07/19：hyperC OS on ARM Cortex by Howard Chen]()  
 #8. [2016/07/05：Meet cute-between-ebpf-and-tracing by Villar Hsiao]()  
