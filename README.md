@@ -28,7 +28,7 @@ COSCUP 2017
 [Cat System Workshop](https://www.facebook.com/groups/cat.system/) & [Taiwan Linux Kernel Hackers](https://www.facebook.com/groups/twlinuxkernelhackers/) & [Hsinchu Coding Serfs Meeting](https://www.facebook.com/groups/hsinchu.coders/) gathered on COSCUP2017,
 here is the slides and videos: https://hackmd.io/s/rk9YLbLD-  
 
-#20 [2017/10/03：C++ 勇者升級 02：Singleton by Luba](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-10-03-C%2B%2B02-Luba.md)
+#20 [2017/10/03：C++ 勇者升級 02：Singleton by Luba](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-10-03-C%2B%2B02-Luba.md)  
 #19 [2017/09/05：C++ 勇者升級 01：Introduction to C++ interface](https://github.com/CatSystemWorkshop/meetup/blob/master/2017-09-05-C%2B%2B01-Luba.md)
 
 
