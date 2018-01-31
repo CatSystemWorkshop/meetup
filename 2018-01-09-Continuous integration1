@@ -1,0 +1,38 @@
+### Cat System Workshop #21 ### 
+# #21 Continuous integration: The Three Ways And Jenkins Introduction #
+
+### 時間 ###
+2018/01/09 (Tue.) 19:30~21:30 
+
+### 簡介 ###
+* 在做Continuous integration 前，你所要知道的那些小事
+* Continuous integration 做了之後，到底對誰好
+* 開始選擇工具並建置屬於自己的Continuous integration 吧
+* 以Jenkins 建置流程為例，並介紹pipeline 功能操作
+
+希望本次分享讓想學習或導入CI，對觀念有所認識，
+進而建立自己團隊的工作流程，並在建立重整
+
+### 講者 ###
+Samuel <chyishian.jiang@gmail.com>
+原為後端工程師，起初幫忙撰寫第一支自動化測試，不知不覺擔任起ＤevＯps之角色，現仍在持續精進團隊架構中；藉由這次講座分享個人近幾個月的研究和心得。
+
+
+### 報名 ### 
+https://skymizer.kktix.cc/events/cat180109
+
+### 補充資訊 ### 
+投影片：
+[CI Introduction](https://www.slideshare.net/JyangChiSyan/introduce-continuous-integration)
+
+### 活動提醒 ###
+1. 活動準時於 19:30 開始，歡迎大家攜帶晚餐邊交流邊享用。
+2. 活動場地需脫鞋， 建議大家穿著穿脫方便的鞋子過來唷！
+
+實體聚會前，來[簽到](https://github.com/CatSystemWorkshop/meetup/blob/master/guest_book.md)認識一下大家，或到 [gitter](https://gitter.im/CatSystemWorkshop/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 上聊天吧
+
+Cat System Workshop是一個討論「系統軟體」議題的定期性社群聚會，我們期望聚集各開發者們在這與我們分享交流在系統軟體的相關經驗，彼此切磋琢磨，讓系統軟體更加完備！我們徵求「系統」、「效能」、「優化」、「Profiling」、「Compiler」的相關主題，投稿請來信: cat4 at skymizer.com。
+
+### 場地資訊 ###
+這個聚會由 [Skymizer](https://github.com/skymizer) 贊助場地。
+地址：台北市內湖區瑞光路 408 號 12 樓之 2（近捷運西湖站 or 港墘站）。
