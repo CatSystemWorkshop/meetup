@@ -28,7 +28,7 @@ https://skymizer.kktix.cc/events/cat180718
 [共筆](https://docs.google.com/document/d/1eMR5LYYFc_rxBtFYsKtrFUWi7oJHVLpqyLauvMvJflU/edit)  
 [影片1](https://youtu.be/sv26u6reTEs)   
 [影片2](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FbgNrAf90Hc0&h=AT0bqu7l9_IImNVNdzf4ySP7_Q2ij4JugmqJohICIjHnMRG61RVt33ssWvumGcmES0v8hnJALtBM4BUAyKT51oFsDasWh91bEfMPr-TnAgq3xyYagQQIxVDs5H8JmoPlYvPECwY)  
-[投影片]()      
+[投影片](https://github.com/CatSystemWorkshop/meetup/blob/master/20180718Ftrace%26RISC-VportbyAlan.pdf)      
 
 
 ### 活動提醒 ###
