@@ -11,9 +11,8 @@ Github Page: [https://github.com/CatSystemWorkshop/meetup/](https://github.com/C
 Telegram: 
 
 ### Current Activity ###  
-Cat System Workshop #26  
-C++ 勇者升級 03   
-詳細介紹
+Cat System #26 C++ 勇者升級 03 : 物件與生命週期  
+[詳細介紹](https://github.com/CatSystemWorkshop/meetup/blob/master/190701_C%2B%2B03-Poyenc.md)
 [報名連結](https://skymizer.kktix.cc/events/csw190701)  
 
 ### Location ### 
