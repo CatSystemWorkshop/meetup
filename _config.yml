@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+title: CatSystem 系統貓
+description: 系統軟體社群聚會與歷年活動紀錄
+exclude:
+  - PLAN.md
+  - meetup-handoff.md

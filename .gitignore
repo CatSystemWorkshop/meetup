@@ -1,0 +1,4 @@
+# Jekyll-generated caches and build output.
+.jekyll-cache/
+.jekyll-metadata
+_site/
