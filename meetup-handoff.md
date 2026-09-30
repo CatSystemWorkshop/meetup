@@ -2,7 +2,7 @@
 
 ## 專案狀態
 
-- 2026-10-01 已完成本機更新，分支 `codex/update-kktix-events`，尚未推送。查法：`git status -sb`、`git log -1 --oneline`、`git diff --stat origin/master...HEAD`。
+- 2026-10-01 已完成本機更新，分支 `codex/update-kktix-events`，使用者已明確授權發布，準備推送。查法：`git status -sb`、`git log -1 --oneline`、`git diff --stat origin/master...HEAD`。
 - README 整理 45 場 KKTIX 公開活動（41 場有編號聚會、4 場 COSCUP 前哨戰），另保留 4 場舊索引紀錄。最新公開紀錄為 2021-10-12 第 46 場，無近期公開活動；查 [KKTIX](https://skymizer.kktix.cc/)。
 - GitHub Pages 來源是 `master` 根目錄，原首頁只有 Hello World。查法：`gh api repos/CatSystemWorkshop/meetup/pages --jq '{html_url,source,status}'`、`curl -fsSL https://catsystemworkshop.github.io/meetup/`。
 - 已逐場比對 JSON-LD 的開始日期與主題、驗證 49 列資料及既有筆記／PDF 連結；本機 Jekyll 成功展開首頁 include 並轉成 6 個 HTML 表格。
@@ -17,6 +17,5 @@
 
 ## 下一步
 
-- 等使用者確認對外發布。發布待決與本次授權範圍見 [PLAN](PLAN.md)。
-- 同意後重新確認遠端 master 是否前進，再把本次更新推送至 master（會觸發 Pages）；不得推送 vault 主 repo。
+- 已取得發布授權，遠端 master 未前進；推送本次更新至 master（會觸發 Pages）。授權範圍見 [PLAN](PLAN.md)。
 - 發布後查 Pages build：`gh api repos/CatSystemWorkshop/meetup/pages/builds/latest --jq '{status,error,commit}'`，並確認公開頁含第 46 場、歷年表格及筆記連結。
