@@ -2,9 +2,9 @@
 
 ## Introduction
 
-"Cat System" is a regular meet-up focusing on “system software”. We would like to gather developers to share their experience regarding system software and learn from each other, making system software more perfect and complete! If you are interested in sharing at our meet-up, please send your topic to: `cat4 at skymizer.com`.
+"Cat System" is a regular meet-up focusing on “system software”. We would like to gather developers to share their experience regarding system software and learn from each other, making system software more perfect and complete! cat4 has left Skymizer. For talk proposals and event inquiries, please contact: `hi at skymizer.com`.
 
-「系統貓」是一個討論「系統軟體」議題的定期性社群聚會，我們期望聚集各開發者分享交流在系統軟體的相關經驗，彼此切磋琢磨，讓系統軟體更加完備！我們徵求「系統」、「效能」、「優化」、「Profiling」、「Compiler」的相關主題，投稿請來信：`cat4 at skymizer.com`。
+「系統貓」是一個討論「系統軟體」議題的定期性社群聚會，我們期望聚集各開發者分享交流在系統軟體的相關經驗，彼此切磋琢磨，讓系統軟體更加完備！我們徵求「系統」、「效能」、「優化」、「Profiling」、「Compiler」的相關主題。**cat4 已離職，投稿與活動相關事宜請改聯絡：`hi at skymizer.com`。**
 
 ## Channels
 
